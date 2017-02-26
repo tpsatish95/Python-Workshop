@@ -1,4 +1,0 @@
-Windows:
-  Use either of the .exe files to install
-Linux:
-  sudo dpkg -i <DEB_PACKAGE_NAME>

@@ -1,0 +1,9 @@
+If you want to install python-linter to follow a coding style then,
+Windows:
+  pip install pylint
+  apm install linter
+  apm install linter-pylint
+Linux:
+  sudo apt-get install pylint
+  apm install linter
+  apm install linter-pylint

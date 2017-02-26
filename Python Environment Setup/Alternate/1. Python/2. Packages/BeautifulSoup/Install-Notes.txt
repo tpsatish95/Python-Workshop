@@ -1,0 +1,8 @@
+Uzip the respective zip file
+Windows:
+  Navigate inside the unzipped folder
+  Shift+RightClick -> Open command window here
+  python setup.py install
+Linux:
+  use Terminal to navigate inside the unzipped directory
+  python setup.py install

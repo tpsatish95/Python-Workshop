@@ -1,0 +1,17 @@
+Environment setup instructions:
+  Download Python 3.6 from https://www.continuum.io/downloads
+    This link has installers and installation guides for setting up the anaconda distribution of Python 3.6 in Windows, OSX and Linux
+    Follow the on-screen instructions during the installation process
+  Download the Atom Editor from https://atom.io/ for your respective operating system
+  Additional Steps: (To set-up the Atom editor for python)
+    Install Git from https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+    Launch the Atom editor and Use Ctrl+Shift+P (Windows and Linux) or Cmd+Shift+P (OSX), to launch the command pane of Atom
+    Type in 'install packages and themes' and hit Enter
+    Type in the following package names one by one and install the first search result:  'atom-python-run', 'autocomplete-python', 'git-plus', 'linter-pep8', 'minimap', 'pretty-json', 'project-manager', 'python-autopep8', 'python-isort', 'python-tools', 'symbols-tree-view', 'tabs-to-spaces'
+  Check your installation:
+    Download the 'HelloTest.py' script file attached (PFA)
+    Open it in Atom editor
+    Follow the instructions in the comment section of the file to verify your installation
+
+
+Alternative GDrive Links: https://goo.gl/A1h3BK

@@ -1,0 +1,8 @@
+On Unix, Linux, BSD, OSX, and Cygwin:
+
+    ./configure
+    make
+    make test
+    sudo make install
+
+This will install Python as python3.

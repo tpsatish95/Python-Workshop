@@ -1,2 +1,0 @@
-Windows / Linux:
-  run the command  "python get-pip.py"
